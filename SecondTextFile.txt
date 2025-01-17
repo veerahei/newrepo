@@ -1,0 +1,1 @@
+Toinen esimerkkitiedosto, luotu haarassa my-new-branch.
